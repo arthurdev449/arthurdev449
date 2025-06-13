@@ -50,7 +50,7 @@ Here are a few projects I've been working on or have contributed to. Check out t
 
 ## 📫 Let's Connect!
 
-*   **LinkedIn:** [linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/arthur-zanini-marzagao-a42122304/)
+*   **LinkedIn:** [linkedin.com/in/arthur-zanini-marzagao-a42122304](https://www.linkedin.com/in/arthur-zanini-marzagao-a42122304/)
 *   **Email:** [arthurzmarzagao@gmail.com](arthurzmarzagao@gmail.com)
 *   **This GitHub Profile!**
 
