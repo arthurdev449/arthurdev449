@@ -1,6 +1,6 @@
 # Arthur Zanini Marzagão
 
-Estudante de Ciência da Computação (4º semestre | UNICID) com foco em desenvolvimento backend e Inteligência Artificial. Cidadão Brasileiro-Australiano com fluência nativa em Português e Inglês.
+Estudante de Ciência da Computação (5º semestre | UNICID) com foco em desenvolvimento de software e Data Science. Cidadão Brasileiro-Australiano com fluência nativa em Português e Inglês.
 
 *   **LinkedIn:** [linkedin.com/in/arthur-zanini-marzagao](https://www.linkedin.com/in/arthur-zanini-marzagao-a42122304/)
 *   **Email:** [arthurzmarzagao@gmail.com](mailto:arthurzmarzagao@gmail.com)
