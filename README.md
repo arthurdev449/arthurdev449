@@ -20,14 +20,14 @@ Estudante de Ciência da Computação (5º semestre | UNICID) com foco em desenv
 
 **1. Rede Neural em C** | [Repositório](https://github.com/arthurdev449/Neural-Network-in-C)
    *   Desenvolvimento de uma rede neural a partir do zero em C, utilizando apenas bibliotecas padrão.
-   *   Implementação completa dos algoritmos de *forward pass* e *backpropagation* para demonstrar o entendimento fundamental da arquitetura de modelos de ML.
+   *   Implementação completa dos algoritmos de *forward pass* e *backpropagation* para entendimento fundamental da arquitetura de modelos de ML.
 
 **2. Documentação de Engenharia de LLMs** | [Repositório](https://github.com/arthurdev449/mastering-llm-engineering)
    *   Base de conhecimento técnico sobre Engenharia de Prompt e Engenharia de Instruções de Sistema para LLMs.
    *   O repositório documenta técnicas e arquiteturas como RAG (Retrieval-Augmented Generation) e Chain-of-Thought (CoT).
 
 **3. Implementações de Estruturas de Dados em C** | [Repositório](https://github.com/arthurdev449/data_structures)
-   *   Implementação de estruturas de dados essenciais (listas ligadas, árvores) em C para solidificar conceitos de algoritmos e gerenciamento de memória.
+   *   Implementação de estruturas de dados essenciais (Stack, Array, Linked List, Trees) em C para solidificar conceitos de algoritmos e gerenciamento de memória.
 
 ---
 
