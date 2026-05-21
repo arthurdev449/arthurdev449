@@ -12,7 +12,7 @@ Estudante de Ciência da Computação (5º semestre | UNICID) com foco em desenv
 *   **Linguagens:** C, Python, JavaScript/TypeScript, SQL, Java, PHP, HTML/CSS
 *   **IA & Machine Learning:** Integração de LLMs (Gemini SDK), Engenharia de Prompt (RAG, CoT), Agentes em Pipeline (*State Machines*).
 *   **Engenharia de Software:** Integração C/Python via Foreign Function Interfaces (ctypes), Gerenciamento Manual de Memória, Desenvolvimento Full-stack (Flask + Vanilla JS/DOM).
-*   **Ferramentas e Plataformas:** Git, GitHub, VS Code, Power Query
+*   **Ferramentas e Plataformas:** Git, GitHub, VS Code, Power Query, GCP
 
 ---
 
